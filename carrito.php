@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         'cantidad' => $cantidad,
         'precio' => $precio
     );
-
+    //guardado para hosting
     
 
     // Agregamos el producto al carrito (arreglo de objetos en sesión)
